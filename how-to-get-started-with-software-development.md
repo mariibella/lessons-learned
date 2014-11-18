@@ -8,3 +8,4 @@ Even with this gameplan laid out, the team should assess the general risks of la
 This is a good step-by-step approach for creating user stories under an agile approach: http://www.agilemodeling.com/artifacts/userStory.htm
 While I have only focused on the steps before building software, the entire cycle of building a business is a rigorous one that requires constant ideation, testing, evaluating, and decision-making. One graphic I found online details this windy and at times, cyclical methodology: 
 http://www.bitrebels.com/wp-content/uploads/2013/07/how-start-a-startup-infographic.png?raw=true
+![](http://www.bitrebels.com/wp-content/uploads/2013/07/how-start-a-startup-infographic.png?raw=true)
