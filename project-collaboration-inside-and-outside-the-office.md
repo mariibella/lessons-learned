@@ -17,7 +17,7 @@ home at times, or be away from you when one of you is traveling. Therefore it be
 a way to communicate when not on location. One way to do this is through Slack or Skype, both allow for
 text conversations that are then recorded. Slack is better in many respects, however if you need to see
 facial expressions or hear changes in tone, then Skype or a Google Hangout might be a better bet since
-this will allow you to actually see the person or people you are talking to. However, the dilemna is that
+this will allow you to actually see the person or people you are talking to. However, the dilemma is that
 you cannot work while these conversations are going on. It is important to set norms with programmers 
 early so that you can decide which way to communicate and when it is appropriate to do so. In addition,
 GitHub is another way for programmers to work remotely and allows for each person to see what others are 
