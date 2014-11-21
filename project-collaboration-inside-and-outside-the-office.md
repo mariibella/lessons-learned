@@ -27,5 +27,13 @@ early so that you can decide which way to communicate and when it is appropriate
 GitHub is another way for programmers to work remotely and allows for each person to see what others are 
 working on and how everything is progressing.
 
+##Chat Apps and Productivity
+Overall, chat apps are something that should be used in any setting, it is faster than walking over and
+trying to find a programmer when asking a simple question. However, for the more difficult questions, you
+need to make sure that there is face time to avoid confusion. These apps can really improve the productivity
+of an office by reducing idle time, just make sure that you are not pestering others with irrelevant
+messages that stop them from working.
+
+
 In all, you are trying to avoid this when taking the above steps:
 ![](http://thinkebiz.blogs.com/.a/6a00d8345472d069e201156ff06a2e970c-pi)
