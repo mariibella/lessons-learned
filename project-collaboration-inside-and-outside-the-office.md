@@ -1,4 +1,4 @@
-Collaborating with programmers and designers can be difficult at times, especially when you are creating
+Collaborating with programmers and designers can be difficult at times; especially when you are creating
 a new product that you have envisioned in your mind and need to relay it to those actually building it.
 One important aspect of this is how and when you communicate with your programmers and designers, since
 many times they may not be next to you as they are actually building the product. In addition, the question
@@ -10,7 +10,7 @@ When programmers are in the office, it is important to set ground rules on when 
 with them. This could mean that they are in work mode when their headphones are on, and no one should
 both them at that point, or it could be as simple as having a red ping pong paddle up next to them. These
 simple efforts allow the programmers to be more productive, and then give you designated time to actually
-give comments and ask questions rather than interupting the work flow completely.
+give comments and ask questions rather than interrupting the work flow completely.
 
 When programmers are not on site, it is a different story. In today's world programmers will work from
 home at times, or be away from you when one of you is traveling. Therefore it becomes necessary to have
