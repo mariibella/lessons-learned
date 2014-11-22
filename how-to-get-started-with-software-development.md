@@ -1,0 +1,11 @@
+While we have focused a large proportion of lectures on how to manage software development, there are a number of steps that can be taken before anything is even coded. These are important steps to consider as they can save a lot of time, energy, and resources!
+First, and perhaps most importantly, the founding team should conduct market research and understand user problems, needs, and the existing products that solve those needs.
+Next, identify ways in which the problem(s) and need(s) can be better served, either in terms of quality of service, available features, price, or a combination of these factors.
+Identify different user segments and create personas. This will allow the team to understand how different types of customers can be served, and consequently, what the product should look like to serve each of those customers.
+Creating user stories is a key aspect of the initial product development process. The team should focus on needs that each user has and frame these in the Connextra format: As a [stakeholder], I want [feature] so that [benefit]. Sticky notes are commonly used and help the team stay streamlined in developing these stories.
+With personas and user stories defined, specify the user requirements and what each action necessitates and returns. 
+Create a rough picture of the product on one platform first, before planning to build for all platforms (i.e. desktop before mobile). Low-fidelity prototypes will allow for nimbleness to shift strategies at this early stage.
+Even with this gameplan laid out, the team should assess the general risks of launching, specifically in terms of competition, ability to deliver the product as specified to the user (i.e. execution risk), and ability to finance the entire operation in the short-term (before raising money).
+This is a good step-by-step approach for creating user stories under an agile approach: http://www.agilemodeling.com/artifacts/userStory.htm.
+While I have only focused on the steps before building software, the entire cycle of building a business is a rigorous one that requires constant ideation, testing, evaluating, and decision-making. One graphic I found online details this windy and at times, cyclical methodology: 
+![](http://www.bitrebels.com/wp-content/uploads/2013/07/how-start-a-startup-infographic.png?raw=true)
